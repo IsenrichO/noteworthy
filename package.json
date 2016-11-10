@@ -25,11 +25,19 @@
   },
   "homepage": "https://github.com/IsenrichO/noteworthy#readme",
   "devDependencies": {
-    "angular": "^1.5.8"
+    "angular": "^1.5.8",
+    "babel-polyfill": "^6.16.0",
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "mocha": "^3.1.2",
+    "nodemon": "^1.11.0",
+    "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
     "babel-core": "^6.18.2",
     "babel-loader": "^6.2.7",
+    "bcrypt": "^0.8.7",
+    "express": "^4.14.0",
     "stylus": "^0.54.5",
     "underscore": "^1.8.3",
     "webpack": "^1.13.3"

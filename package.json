@@ -26,5 +26,12 @@
   "homepage": "https://github.com/IsenrichO/noteworthy#readme",
   "devDependencies": {
     "angular": "^1.5.8"
+  },
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "stylus": "^0.54.5",
+    "underscore": "^1.8.3",
+    "webpack": "^1.13.3"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "name": "noteworthy",
+  "version": "1.0.0",
+  "description": "Noteworthy web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsenrichO/noteworthy.git"
+  },
+  "keywords": [
+    "Noteworthy",
+    "Note-Taker",
+    "Web",
+    "Application",
+    "Oliver",
+    "Isenrich"
+  ],
+  "author": "Oliver Isenrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsenrichO/noteworthy/issues"
+  },
+  "homepage": "https://github.com/IsenrichO/noteworthy#readme",
+  "devDependencies": {
+    "angular": "^1.5.8"
+  }
+}
